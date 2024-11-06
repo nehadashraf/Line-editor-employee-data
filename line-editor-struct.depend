@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1730892669 source:d:\work_space\iti scholarship\intro to programming c\labs\day6\line-editor-struct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<ctype.h>
+
